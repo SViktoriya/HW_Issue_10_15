@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qa.guru.SelenideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-30T18:15:16" hostname="MacBook-Pro-Sergej.local" time="1.398">
+  <properties/>
+  <testcase name="testIssueSearchSelenide()" classname="qa.guru.SelenideTest" time="1.398"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

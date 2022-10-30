@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qa.guru.AnnotationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-30T18:15:06" hostname="MacBook-Pro-Sergej.local" time="7.597">
+  <properties/>
+  <testcase name="testAnnotatedStep()" classname="qa.guru.AnnotationTest" time="7.597"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 56426
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+окт. 30, 2022 9:15:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+окт. 30, 2022 9:15:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 106, so returning the closest version found: 104
+окт. 30, 2022 9:15:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 106 of 104
+]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qa.guru.LambdaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-30T18:15:13" hostname="MacBook-Pro-Sergej.local" time="2.145">
+  <properties/>
+  <testcase name="testLambdaStep()" classname="qa.guru.LambdaTest" time="2.145"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
